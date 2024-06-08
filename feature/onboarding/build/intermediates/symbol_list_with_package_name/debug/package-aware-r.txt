@@ -1,0 +1,4 @@
+com.kursatkumsuz.onboarding
+drawable onboarding_image_first
+drawable onboarding_image_second
+drawable onboarding_image_third

@@ -1,0 +1,2 @@
+com.kursatkumsuz.splash
+drawable logo

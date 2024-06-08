@@ -1,0 +1,1 @@
+C:\Users\Alexander\Desktop\movie-master\buildSrc\build\classes\kotlin\main\ProjectConfig.class
